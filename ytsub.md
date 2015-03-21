@@ -1,0 +1,3 @@
+# 邀踢字幕 #
+
+[邀踢](http://code.google.com/p/ytsub/wiki/yt)字幕（YTSub）是一个使用 [wxWidgets](http://www.wxwidgets.org/) 开发，以 [MPlayer](http://www.mplayerhq.hu/) 作为播放器，主要用于外语影片翻译的字幕辅助制作软件，计划开发时间轴、翻译、<u title='Advanced SubStation Alpha'>ASS</u> 脚本特效能功能。前期将做到能完成 [PopSub](http://popgo.net/bbs/showthread.php?threadid=498440) 的大部分功能。该项目目前仅支持在 [Linux](http://www.linux.org/) 下运行，测试版发布前将完成 [Windows](http://www.microsoft.com/windows/) 下的代码工作。暂时只打算支持 Linux 和 Windows 两个平台。虽然邀踢字幕还处于初期开发阶段，但源代码已经同步更新到 [SVN](http://code.google.com/p/ytsub/source/browse/trunk) 中，你可以从 SVN 中获取源代码。
